@@ -15,7 +15,7 @@
 <div id="heythere" align="center">
 <h1> Профиль на GITHUB </h1>
 </div>
-### :woman_technologist: Обо мне: Студент в МПТ.
+### :woman_technologist: Обо мне: 
 
 - :brain: факт обо мне: Учусь в МПТ
 
