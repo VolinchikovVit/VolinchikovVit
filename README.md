@@ -33,7 +33,5 @@
 
 <div>
   <img src"https://https://github-profile-trophy.vercel.app/?username=VolinchikovVit" alt=""/>
-  <img src"https://https://github-profile-trophy.vercel.app/?username=VolinchikovVit" alt=""/>
-
 </div>
 
