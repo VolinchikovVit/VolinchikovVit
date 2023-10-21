@@ -14,4 +14,5 @@
 
 <div id="heythere" align="center">
 <h1> Профиль на GITHUB </h1>
-</div>![Безымянный](https://github.com/VolinchikovVit/VolinchikovVit/assets/147920799/152e7653-a3e0-40fe-891d-861857ec6062)
+</div>
+### :woman_technologist: Обо мне:
