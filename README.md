@@ -27,6 +27,8 @@
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" width="40" height="40"/>
+  <img src="http://www.w3.org/2000/svg" width="40" height="40"/>
+
 </div>
 
 ### :trophy: Достижения :
